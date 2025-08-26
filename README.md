@@ -227,7 +227,7 @@ DEBUG=seal-web-app:* npm run dev
 
 ## License
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the WTFPL - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
